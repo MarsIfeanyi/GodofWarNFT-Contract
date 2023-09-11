@@ -1,0 +1,21 @@
+{
+  "name": "TechBro",
+  "description": "Blockchain Software Developer, Web3 Security Engineer",
+  "external_url": "https://linktr.ee/marsifeanyi",
+  "image": "ipfs://QmTiU98Rkjs9MJw76WnZ7LD8uEN454QffR3YNP6NnnMwSC",
+  "attributes": [
+    {
+      "trait_type": "Tech Stack",
+      "value": "Smart Contract Developer"
+    },
+    {
+      "trait_type": "Tech Stack",
+      "value": "FrontEnd Developer"
+    },
+
+    {
+      "trait_type": "Financial Market",
+      "value": "Quant and Charted Trader"
+    }
+  ]
+}

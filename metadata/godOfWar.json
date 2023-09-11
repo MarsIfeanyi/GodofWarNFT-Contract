@@ -1,0 +1,21 @@
+{
+  "name": "Marcellus as Mars",
+  "description": "Marcellus is young warrior, Mars is the Roman god of war. Marcellus is a personal given name with Latin origins that may be associated with the qualities of a young warrior, while Mars is the name of the Roman god of war and is a mythological and divine name",
+  "external_url": "https://linktr.ee/marsifeanyi",
+  "image": "ipfs://QmVTMyTj3mc7Rx7hjz8JRne5AGMqRzwxp86jZ3AWhJDUkr",
+  "attributes": [
+    {
+      "trait_type": "God of War",
+      "value": 1000
+    },
+    {
+      "trait_type": "Young of Warrior",
+      "value": 2000
+    },
+
+    {
+      "trait_type": "Strongest",
+      "value": "Tall"
+    }
+  ]
+}
