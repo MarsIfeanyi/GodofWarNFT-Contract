@@ -6,6 +6,12 @@ Deploying an NFT contract that conforms to the Openzeppelin in ERC721 standard t
 
 https://sepolia.etherscan.io/address/0x06448574948e481E395C702B65e13bB23C2f5aeF
 
+### OpenSea Links
+
+- https://testnets.opensea.io/assets/sepolia/0x06448574948e481e395c702b65e13bb23c2f5aef/5
+
+- https://testnets.opensea.io/assets/sepolia/0x06448574948e481e395c702b65e13bb23c2f5aef/6
+
 ### Deployed contract and Interactions View on Etherscan
 
 ![image6](./images/06.png)
