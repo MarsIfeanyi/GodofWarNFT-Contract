@@ -1,6 +1,6 @@
 ## Description:
 
-Deploying an NFT contract that conforms to the Openzeppelin in ERC721 standard that is visible on OpenSea and deployed to a live testnet, using Solidity and Hardhat for the contract development and TypeScript for the scripting and interactions.
+Development of an NFT smart contract that conforms to the [Openzeppelin](https://docs.openzeppelin.com/contracts) in [ERC721](https://eips.ethereum.org/EIPS/eip-721) standard, deployed to a live testnet and visible on [OpenSea](https://opensea.io/), using [Solidity](https://soliditylang.org/) and [Hardhat](https://hardhat.org/) for the contract development and [TypeScript](https://www.typescriptlang.org/) and [Ethersjs](https://docs.ethers.org/v6/) for the scripting and contract interactions.
 
 ### GodOfWarNFT ContractAddress
 
